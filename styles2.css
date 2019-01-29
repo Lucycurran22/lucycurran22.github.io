@@ -1,0 +1,13 @@
+h1 {
+    color:black; 
+    font-size: 40px;
+    font-family: vcr_osd_monoregular;
+    line-height: 1.8;
+    font-weight: bolder;
+}
+
+body {
+    background-color: lightblue;
+    font-family: vcr_osd_monoregular;
+  
+}
